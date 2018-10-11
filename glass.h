@@ -15,7 +15,7 @@
 // 有关此类的实现，请参阅 glass.cpp
 //
 
-class CglassApp : public CWinAppEx
+class CglassApp : public CWinApp
 {
 public:
 	CglassApp();
